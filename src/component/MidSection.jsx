@@ -41,7 +41,7 @@ const MidSection = () => {
         </div>
         {/* .......................................  */}
         <div className="flex justify-center items-center gap-4">
-          <i class="fa-solid fa-circle-plus text-blue-900 text-6xl"></i>
+          <i className="fa-solid fa-circle-plus text-blue-900 text-6xl"></i>
           <p className="text-blue-900 text-4xl font-semibold">Create Flashcard </p>
         </div>
       </div>

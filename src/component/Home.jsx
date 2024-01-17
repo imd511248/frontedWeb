@@ -17,26 +17,26 @@ const Home = () => {
         <div className=" flex justify-center items-center my-10">
           <div className="rounded-3xl bg-gradient-to-r to-blue-900 via-blue-900 from-sky-700 w-3/5 h-96 relative text-white">
             <span className="absolute left-11 top-8">
-              <i class="fa-regular fa-lightbulb text-2xl"></i>
+              <i className="fa-regular fa-lightbulb text-2xl"></i>
             </span>
             <span className="absolute right-11 top-8">
-              <i class="fa-solid fa-volume-high text-2xl"></i>
+              <i className="fa-solid fa-volume-high text-2xl"></i>
             </span>
             <p className="text-3xl font-semibold absolute left-2/4 transform -translate-x-2/4 -translate-y-2/4 top-2/4 ">9 + 6 + 7x - 2x - 3</p>
           </div>
         </div>
         <div className="flex justify-evenly w-3/5 items-center mb-24 mx-auto gap-11">
-          <i class="fa-solid fa-arrow-rotate-right font-bold text-4xl pt-1 text-sky-900"></i>
+          <i className="fa-solid fa-arrow-rotate-right font-bold text-4xl pt-1 text-sky-900"></i>
           <ul className="flex justify-between items-center gap-5">
             <span className="bg-sky-900 rounded-full h-14 w-14 text-center leading-[56px]">
-              <i class="fa-solid fa-chevron-left text-white text-2xl font-extrabold"></i>
+              <i className="fa-solid fa-chevron-left text-white text-2xl font-extrabold"></i>
             </span>
             <li className="text-black text-2xl font-bold ">01/10</li>
             <span className="bg-sky-900 rounded-full h-14 w-14 text-center leading-[56px]">
-              <i class="fa-solid fa-chevron-right text-white text-2xl font-extrabold"></i>
+              <i className="fa-solid fa-chevron-right text-white text-2xl font-extrabold"></i>
             </span>
           </ul>
-          <i class="fa-solid fa-expand font-bold text-4xl pt-1 text-sky-900"></i>
+          <i className="fa-solid fa-expand font-bold text-4xl pt-1 text-sky-900"></i>
         </div>
       </div>
       <MidSection />
