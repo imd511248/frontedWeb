@@ -20,9 +20,7 @@ const CountryDetails = () => {
             <div
               key={i + 90}
               onClick={() => stateHandler(item.state, i)}
-              className={`group md:w-1/4 xl:w-1/5 w-full h-16 text-center rounded-3xl leading-none py-4 border cursor-pointer hover:bg-green-700 relative text-lg md:text-xl ${
-                item.red ? `${item.red}` : `bg-yellow-300`
-              }`}>
+              className={`group md:w-1/4 xl:w-1/5 w-full h-16 text-center rounded-3xl leading-none py-4 border cursor-pointer hover:bg-green-700 relative text-lg md:text-xl ${item.red}`}>
               {item.city}
               <div className="bg-gray-300 absolute left-2 z-50 -top-24 min-w-60 text-left px-5 py-3 box-content rounded-lg group-hover:scale-100 duration-300 scale-0 origin-bottom-left opacity-90">
                 <div className="mb-1">
@@ -44,7 +42,6 @@ const CountryDetails = () => {
       </div>
       <div className={`overflow-x-auto w-11/12 mx-auto my-10 ${selectedState ? "block" : "hidden"}`}>
         <Shape />
-        {/* <TreeChart /> */}
         <Graph />
         <table className="w-full mx-auto mt-10 overflow-scroll">
           <thead className="text-base sm:text-lg md:text-xl font-medium w-full bg-purple-400">
