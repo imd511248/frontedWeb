@@ -1,0 +1,367 @@
+{
+  "West_Bengal": [
+    {
+      "year": "2011",
+      "city": "Kolkata",
+      "populationInc": "1.55 %",
+      "totalpopul": "14,035,959",
+      "area": "1,380 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Shalimar",
+      "populationInc": "2 %",
+      "totalpopul": "69621",
+      "area": "88,752 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Durgapur",
+      "populationInc": "2.1 %",
+      "totalpopul": "9,397,342",
+      "area": "188,752 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Howrah",
+      "populationInc": "2.3 %",
+      "totalpopul": "43,435,444",
+      "area": "10,752 km2"
+    }
+  ],
+  "Punjab": [
+    {
+      "year": "2011",
+      "city": "Amritshar",
+      "populationInc": "1.1%",
+      "totalpopul": "21,232,331",
+      "area": "20,233,201 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Jalandhar",
+      "populationInc": "1.4 %",
+      "totalpopul": "64,465,946",
+      "area": "20,230,231 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Mohali",
+      "populationInc": "1.9 %",
+      "totalpopul": "26,246,556",
+      "area": "88,645,664 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Patiyala",
+      "populationInc": "1.1 %",
+      "totalpopul": "45,254,245",
+      "area": "54,200,654 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Pathankot",
+      "populationInc": "2 %",
+      "totalpopul": "25,546,689",
+      "area": "24,665,988 km2"
+    }
+  ],
+  "Haryana": [
+    {
+      "year": "2011",
+      "city": "Nooh",
+      "populationInc": "2.3 %",
+      "totalpopul": "25,546,689",
+      "area": "24,665,988 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Haldwani",
+      "populationInc": "1.33 %",
+      "totalpopul": "25,006,689",
+      "area": "27,665,901 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Gurugram",
+      "populationInc": "1.34 %",
+      "totalpopul": "95,116,009",
+      "area": "21,020,900 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Faridabad",
+      "populationInc": "1.99 %",
+      "totalpopul": "11,546,625",
+      "area": "24,555,001 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Panipat",
+      "populationInc": "1.7 %",
+      "totalpopul": "45,000,229",
+      "area": "17,225,624 km2"
+    }
+  ],
+  "Tamil_Nadu": [
+    {
+      "year": "2011",
+      "city": "Coimbatur",
+      "populationInc": "1 %",
+      "totalpopul": "25,546,689",
+      "area": "24,665,988 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Sivandi",
+      "populationInc": "1.2 %",
+      "totalpopul": "25,111,689",
+      "area": "24,201,988 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Tothikudi",
+      "populationInc": "1.33 %",
+      "totalpopul": "25,22,689",
+      "area": "24,665,111 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Chennai",
+      "populationInc": "3.1 %",
+      "totalpopul": "23,422,342",
+      "area": "20,234S,333 km2"
+    }
+  ],
+  "Gujrat": [
+    {
+      "year": "2011",
+      "city": "Surat",
+      "populationInc": "1.8 %",
+      "totalpopul": "21,622,654",
+      "area": "20,044,343 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Gandhinagar",
+      "populationInc": "2.2 %",
+      "totalpopul": "22,323,342",
+      "area": "20,042,234 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Ahmedabad",
+      "populationInc": "1.11 %",
+      "totalpopul": "31,322,423",
+      "area": "20,422,422 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Rajkot",
+      "populationInc": "3.1 %",
+      "totalpopul": "22,422,534",
+      "area": "32,534,534 km2"
+    }
+  ],
+  "jharkhand": [
+    {
+      "year": "2011",
+      "city": "Dhanbad",
+      "populationInc": "2.2 %",
+      "totalpopul": "54,221,121",
+      "area": "200 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Bokaro",
+      "populationInc": "1.59 %",
+      "totalpopul": "53,453,744",
+      "area": "11,231,200 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Hazaribagh",
+      "populationInc": "2.2 %",
+      "totalpopul": "53,522,856",
+      "area": "43,533,200 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Ranchi",
+      "populationInc": "1.5 %",
+      "totalpopul": "12,321,231",
+      "area": "34,421,323 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Jamshedpur",
+      "populationInc": "2.2 %",
+      "totalpopul": "54,423,342",
+      "area": "32,322,340 km2"
+    }
+  ],
+  "Bihar": [
+    {
+      "year": "2011",
+      "city": "Patna",
+      "populationInc": "1.5 %",
+      "totalpopul": "21,265,987",
+      "area": "98,365,987 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Gaya",
+      "populationInc": "1.66 %",
+      "totalpopul": "65,265,645",
+      "area": "20,220,000 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Chhapra",
+      "populationInc": "2.1 %",
+      "totalpopul": "41,222,645",
+      "area": "88,800,994 km1"
+    },
+    {
+      "year": "2011",
+      "city": "Mujaffarpur",
+      "populationInc": "2 %",
+      "totalpopul": "42,342,564",
+      "area": "24,654,200 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Nawada",
+      "populationInc": "4.1 %",
+      "totalpopul": "62,554,987",
+      "area": "65,984,258 km2"
+    }
+  ],
+  "Nagaland": [
+    {
+      "year": "2011",
+      "city": "Jakhama",
+      "populationInc": "0.5 %",
+      "totalpopul": "1,855,654",
+      "area": "24,215,487 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Dhansiripar",
+      "populationInc": "1%",
+      "totalpopul": "28,246,356",
+      "area": "12,654,600 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Kohima",
+      "populationInc": "1.55 %",
+      "totalpopul": "65,265,987",
+      "area": "54,987,258 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Athibung",
+      "populationInc": "1.4 %",
+      "totalpopul": "98,654,885",
+      "area": "23,311,332 km2"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "year": "2011",
+      "city": "Jaipur",
+      "populationInc": "1.01%",
+      "totalpopul": "22,532,342",
+      "area": "65,987,258 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Pushkar",
+      "populationInc": "2.1 %",
+      "totalpopul": "98,657,852",
+      "area": "84,955,245 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Bikaner",
+      "populationInc": "1.4 %",
+      "totalpopul": "65,754,254",
+      "area": "45,541,998 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Sikar",
+      "populationInc": "1.77 %",
+      "totalpopul": "15,989,225",
+      "area": "98,654,854 km2"
+    }
+  ],
+  "Maharastra": [
+    {
+      "year": "2011",
+      "city": "Mumbai",
+      "populationInc": "2.9 %",
+      "totalpopul": "66,845,984",
+      "area": "54,987,524 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Pune",
+      "populationInc": "1.4 %",
+      "totalpopul": "65,845,954",
+      "area": "84,657,125 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Nagpur",
+      "populationInc": "2.14 %",
+      "totalpopul": "54,654,854",
+      "area": "98,524,233 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Nashik",
+      "populationInc": "1.55%",
+      "totalpopul": "654,656,55",
+      "area": "23,432,422 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Thane",
+      "populationInc": "2 %",
+      "totalpopul": "22,632,452",
+      "area": "20,223,342 km2"
+    }
+  ],
+  "Jammu": [
+    {
+      "year": "2011",
+      "city": "Ladakh",
+      "populationInc": "0.55 %",
+      "totalpopul": "22,432,522",
+      "area": "23,643,634 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Srinagar",
+      "populationInc": "1 %",
+      "totalpopul": "22,342,342",
+      "area": "53,532,532 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Pahalgam",
+      "populationInc": "1.2 %",
+      "totalpopul": "23,522,342",
+      "area": "42,342,423 km2"
+    },
+    {
+      "year": "2011",
+      "city": "Sonamarg",
+      "populationInc": "1.2 %",
+      "totalpopul": "32,241,422",
+      "area": "32,311,543 km2"
+    }
+  ]
+}

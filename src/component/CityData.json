@@ -1,0 +1,38 @@
+[
+  {
+    "country": "afghanistan",
+    "state": [
+      { "stateName": "baghdad", "cityname": [{ "city": "babu" }, { "city": "babul" }] },
+      { "stateName": "kabul", "cityname": [{ "city": "urdu" }, { "city": "farsi" }] }
+    ]
+  },
+  {
+    "country": "pakistan",
+    "state": [
+      { "stateName": "lahore", "cityname": [{ "city": "umarcot" }, { "city": "qalandar" }, { "city": "akhrot" }] },
+      { "stateName": "karachi", "cityname": [{ "city": "hajipur" }, { "city": "shahigunj" }, { "city": "zalimpur" }] },
+      { "stateName": "punjab", "cityname": [{ "city": "khurram" }, { "city": "balbira" }, { "city": "fakira" }] },
+      { "stateName": "islamabad", "cityname": [{ "city": "peshwa" }, { "city": "jaibans" }, { "city": "jdcd" }] },
+      { "stateName": "punjab", "cityname": [{ "city": "tomato" }, { "city": "potato" }, { "city": "laides" }] }
+    ]
+  },
+  {
+    "country": "india",
+    "state": [
+      { "stateName": "delhi", "cityname": [{ "city": "okhla" }, { "city": "jamia" }, { "city": "nfc" }, { "city": "batlahouse" }, { "city": "nijamuddin" }] },
+      { "stateName": "jharkhand", "cityname": [{ "city": "itkhori" }, { "city": "koderma" }, { "city": "chatra" }] },
+      { "stateName": "bihar", "cityname": [{ "city": "nawada" }, { "city": "chhapra" }, { "city": "patna" }] },
+      { "stateName": "kolkata", "cityname": [{ "city": "new market" }, { "city": "vicktoria" }, { "city": "dssdd" }] },
+      { "stateName": "punjab", "cityname": [{ "city": "tomato" }, { "city": "potato" }, { "city": "laides" }] }
+    ]
+  },
+  {
+    "country": "uk",
+    "state": [
+      { "stateName": "england", "cityname": [{ "city": "csd" }, { "city": "london" }, { "city": "jo" }, { "city": "tomato" }, { "city": "buiscuit" }] },
+      { "stateName": "wales", "cityname": [{ "city": "given" }, { "city": "koderma" }, { "city": "finlad" }] },
+      { "stateName": "ireland", "cityname": [{ "city": "lawada" }, { "city": "chhapra" }, { "city": "sorry" }] },
+      { "stateName": "scotland", "cityname": [{ "city": "jjiij" }, { "city": "taoe" }, { "city": "borry" }] }
+    ]
+  }
+]

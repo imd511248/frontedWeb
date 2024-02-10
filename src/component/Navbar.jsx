@@ -1,18 +1,17 @@
 import React from "react";
-import logo from "../assets/images/logo.txt";
+
 const Navbar = () => {
   return (
     <>
-      <nav className="flex justify-between w-4/5 mx-auto my-9">
-        <div className="h-10 w-60">
-          <img className="w-full h-full" src={logo} alt="" />
-        </div>
-        <div className="flex justify-center items-center text-xl font-bold gap-5 text-gray-600">
-          <div>Home</div>
-          <div>FlashCard</div>
-          <div>Contact</div>
-          <div>FAQ</div>
-          <button className="bg-blue-700 rounded-3xl px-10 py-2 text-white border-2 border-blue-700">Login</button>
+      <nav className="bg-purple-500 fixed w-full top-0 left-0 z-30">
+        <div className="h-16 w-5/6 flex justify-between items-center mx-auto">
+          <div className="flex justify-center items-center gap-4">
+            <strong className="text-white text-4xl cursor-pointer">Home</strong>
+          </div>
+          <div className="capitalize text-2xl font-bold text-white hidden sm:block md:block lg:block xl:block 2xl:block ">.</div>
+          <div className="flex space-x-3 text-white gap-3">
+            <p className="cursor-pointer text-white text-2xl">login</p>
+          </div>
         </div>
       </nav>
     </>

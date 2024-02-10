@@ -1,0 +1,79 @@
+[
+  {
+    "city": "West_Bengal",
+    "state": "West_Bengal",
+    "population": "9.13 Crores",
+    "temperature": "15°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "Punjab",
+    "state": "Punjab",
+    "population": "2.77 Crore",
+    "temperature": "19°C",
+    "red": "bg-red-500"
+  },
+  {
+    "city": "Haryana",
+    "state": "Haryana",
+    "population": "2.55 Crore",
+    "temperature": "12°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "Tamil Nadu",
+    "state": "Tamil_Nadu",
+    "population": "7.22 Crore",
+    "temperature": "18°C",
+    "red": "bg-red-500"
+  },
+  {
+    "city": "Gujrat",
+    "state": "Gujrat",
+    "population": "6.04 Crore",
+    "temperature": "14°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "jharkhand",
+    "state": "jharkhand",
+    "population": "3.30 Crore",
+    "temperature": "18°C",
+    "red": "bg-red-500"
+  },
+  {
+    "city": "Bihar",
+    "state": "Bihar",
+    "population": "10.40 Crore",
+    "temperature": "11°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "Nagaland",
+    "state": "Nagaland",
+    "population": "20 Lac",
+    "temperature": "13°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "Rajasthan",
+    "state": "Rajasthan",
+    "population": "6.90 Crore",
+    "temperature": "19°C",
+    "red": "bg-red-500"
+  },
+  {
+    "city": "Maharastra",
+    "state": "Maharastra",
+    "population": "11.23 Crore",
+    "temperature": "12°C",
+    "red": "bg-yellow-300"
+  },
+  {
+    "city": "Jammu",
+    "state": "Jammu",
+    "population": "15 Lac",
+    "temperature": "11°C",
+    "red": "bg-yellow-300"
+  }
+]
